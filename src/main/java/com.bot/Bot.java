@@ -11,10 +11,9 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.Keyboard
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException;
 
-
-
 import java.util.ArrayList;
 import java.util.List;
+
 
 
 public class Bot extends TelegramLongPollingBot {
